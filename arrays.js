@@ -1,3 +1,5 @@
+// Array Joke: Why did the developer quit his job. Because he didn't get arrays (a raise haha)
+
 // What are arrays?
 // - list of strings or numbers
 // - collection of data
